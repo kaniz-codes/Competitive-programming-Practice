@@ -2,11 +2,11 @@
 int main() {
     int N;
     scanf("%d", &N);
-    if ((N % 4 == 0 && N < 1582) ||
-        (N % 400 == 0) ||
+    if ((N % 4 == 0 && N < 1582) || (N % 400 == 0) ||
         (N % 4 == 0 && N % 100 != 0))
-        printf("I can participate in LCPC\n");
-    } else {
+        { printf("I can participate in LCPC\n"); }
+    else 
+    {
         printf("I have to travel back to the past\n");
     }
 
