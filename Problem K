@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() 
+{
+   int M,K,X;
+   scanf("%d %d", &M,&K);
+   printf("%d",M%K);
+    return 0;
+}
