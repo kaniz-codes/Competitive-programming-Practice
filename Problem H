@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main() 
+{
+   int A,B,C,N=1,M=1;
+   scanf("%d %d %d", &A, &B, &C);
+   N= A*C;
+   M=B*C;
+   if(N>M)
+   { printf("%d",N);}
+   else
+   { printf("%d",M);}
+    return 0;
+}
