@@ -31,4 +31,24 @@ o
 
 ![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/9634e545-17b4-4754-8085-9a43ac0924ce)
 
+p
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/63d91bc5-d514-4ba7-932b-9593b49d7f64)
+
+Q
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/ca7b7c43-d694-4dc7-968b-b0173da39cba)
+
+r
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/3a7de353-0657-4cfb-8dc9-a303d75be891)
+
+s
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/d41ff3fb-4146-40b1-b3ae-25fca19610fe)
+
+T
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/416b7cc5-212d-4f78-bb33-051ceb878898)
+
+u
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/b7a4f68a-1778-49cf-8684-22839ef16ebe)
+
+
+
 
