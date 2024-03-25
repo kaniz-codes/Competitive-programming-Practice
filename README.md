@@ -26,3 +26,9 @@ M
 
 N
 ![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/b8c17a43-260f-4496-a4ec-5c8d842d05f7)
+
+o
+
+![image](https://github.com/kaniz-codes/Competitive-programming-Practice/assets/138873297/9634e545-17b4-4754-8085-9a43ac0924ce)
+
+
